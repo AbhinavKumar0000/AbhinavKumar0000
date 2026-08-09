@@ -1,9 +1,8 @@
-<h2 align="left">Hi, I’m Abhinav Kumar.<br><br>I am an AI/ML Engineer specializing in the end-to-end development of scalable generative AI and multi-agent systems.<br>My expertise lies in translating complex models into production-grade AI microservices, implementing robust MLOps practices, and architecting reliable cloud workloads on AWS.<br><br>My current work centers on applied Agentic AI, leveraging multi-modal LLMs, LangGraph, and the Model Context Protocol (MCP) to build autonomous, high-performance inference pipelines.</h2>
-
-
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGV6dDZneTk0bXVhaHc1a3hmOXBhdGRpbDR6ZDgyNmNiN25pN201ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bm3xKXeevdtDUfWRL5/giphy.gif" />
 
-###
+<h2 align="left">Hi, I’m Abhinav Kumar.<br><br>I am an AI/ML Engineer specializing in the end-to-end development of scalable generative AI and multi-agent systems.<br>My expertise lies in translating complex models into production-grade AI microservices, implementing robust MLOps practices, and architecting reliable cloud workloads on AWS.<br><br>My current work centers on applied Agentic AI, leveraging multi-modal LLMs, LangGraph, and the Model Context Protocol (MCP) to build autonomous, high-performance inference pipelines.</h2>
+
+<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,cpp,js,fastapi,pytorch,tensorflow,docker,flask,django,linux,bash,git,github,mysql,postgres,redis,gcp,aws" alt="Core Skills" />
@@ -19,7 +18,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </div>
 
-###
+<br>
 
 <div align="left">
   <a href="mailto:abhinavkumarsaksena@gmail.com">
